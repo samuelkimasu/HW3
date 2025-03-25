@@ -54,6 +54,14 @@ To execute the tests, use your preferred Java IDE (such as IntelliJ IDEA or Ecli
 
 Make sure your database is properly configured and accessible via the `DatabaseHelper` class before running the tests.
 
+## Zoom Recording
+
+> If you’ve recorded a video walkthrough or explanation of this test suite, you can include it here.
+
+**Zoom Recording Link**: [Add Zoom Recording URL Here](https://zoom.us/)
+
+_Example_:  
+**Zoom Recording Link**: [https://zoom.us/rec/share/example](https://zoom.us/rec/share/example)
+
 ---
 
-If you need additional coverage or would like to extend this test suite (e.g., edge cases, permission checks, concurrent access), feel free to contribute or open an issue.
