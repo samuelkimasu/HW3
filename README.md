@@ -61,5 +61,8 @@ Make sure your database is properly configured and accessible via the `DatabaseH
 Passcode: Q@7EBUmz
 
 
+## JavaDoc
+
+[Doc](/HW3/doc)
 ---
 
