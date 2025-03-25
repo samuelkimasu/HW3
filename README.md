@@ -63,6 +63,7 @@ Passcode: Q@7EBUmz
 
 ## JavaDoc
 
-[Doc](/HW3/doc)
+This is the HTML: [Doc](/HW3/doc)
+
 ---
 
