@@ -56,12 +56,7 @@ Make sure your database is properly configured and accessible via the `DatabaseH
 
 ## Zoom Recording
 
-> If you’ve recorded a video walkthrough or explanation of this test suite, you can include it here.
-
 **Zoom Recording Link**: [Add Zoom Recording URL Here](https://zoom.us/)
-
-_Example_:  
-**Zoom Recording Link**: [https://zoom.us/rec/share/example](https://zoom.us/rec/share/example)
 
 ---
 
