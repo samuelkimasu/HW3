@@ -56,7 +56,7 @@ Make sure your database is properly configured and accessible via the `DatabaseH
 
 ## Zoom Recording
 
-**Zoom Recording Link**: [SCREENCAST](https://asu.zoom.us/rec/share/Ea4JTwTJjvHkGWos6uMV9VBtYQ6ujrEW3gT2ExsUkWtZk5THGmObY1srU4r1cOAX.R_iLGdaROR8pCKMv?startTime=1742882062000))
+**Zoom Recording Link**: [SCREENCAST](https://asu.zoom.us/rec/share/Ea4JTwTJjvHkGWos6uMV9VBtYQ6ujrEW3gT2ExsUkWtZk5THGmObY1srU4r1cOAX.R_iLGdaROR8pCKMv?startTime=1742882062000)
 
 Passcode: Q@7EBUmz
 
